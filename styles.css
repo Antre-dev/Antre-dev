@@ -160,3 +160,65 @@ ul li a {
     width: 390px;
     font-weight: 600;
 }
+
+.cat_email{
+    color: white;
+    font-family: "Orbitron", sans-serif;
+    font-weight: 600;
+    font-size: 1.5em;
+    margin: 0;
+    margin-left: 35px;
+    margin-top: 50px;
+    display: block;
+    align-items: center;
+}
+
+.email{
+    color: white;
+    font-family: "Orbitron", sans-serif;
+    font-weight: 600;
+    font-size: 1.5em;
+    margin: 0;
+    margin-left: 35px;
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    border: solid white 1px;
+    width: 270px;
+    height: 60px;
+    padding-right: 40px;
+    justify-content: center;
+}
+
+.cat_github{
+    color: white;
+    font-family: "Orbitron", sans-serif;
+    font-weight: 600;
+    font-size: 1.5em;
+    margin: 0;
+    margin-left: 35px;
+    margin-top: 15px;
+    display: block;
+    align-items: center;
+}
+
+.link{
+    color: white;
+    font-family: "Orbitron", sans-serif;
+    font-weight: 600;
+    font-size: 1.5em;
+    margin: 0;
+    margin-left: 35px;
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    border: solid white 1px;
+    width: 90px;
+    height: 60px;
+    padding-right: 220px;
+    justify-content: center;
+}
+
+.link_a{
+    text-decoration: none;
+}
