@@ -1,0 +1,26 @@
+
+# Portfolio Website
+
+A lightweight, static portfolio website built with HTML, CSS and JavaScript. It includes a homepage, a contact page, and minimal scripts/styles to showcase projects and contact details.
+
+## Features
+
+- Simple, responsive layout for a personal portfolio.
+- `index.html` — main landing page showcasing projects and skills.
+- `contact.html` — contact form (may use mailto or external form handling).
+- `styles.css` — site styles and responsive rules.
+- `scripts.js` — small client-side interactions.
+
+## Quick Start
+
+1. Clone or download the repository.
+2. Open `index.html` in your browser to view the site locally.
+
+Alternatively, serve the folder with a simple HTTP server:
+
+```bash
+# Python 3
+python -m http.server 8000
+
+# Then open http://localhost:8000 in your browser
+```
